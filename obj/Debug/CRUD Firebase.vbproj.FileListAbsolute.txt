@@ -1,0 +1,28 @@
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\obj\Debug\CRUD Firebase.vbproj.App.config
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\obj\Debug\CRUD Firebase.vbprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\obj\Debug\CRUD_Firebase.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\obj\Debug\CRUD_Firebase.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\obj\Debug\CRUD Firebase.vbproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\obj\Debug\CRUD Firebase.vbproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\bin\Debug\CRUD Firebase.exe.config
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\bin\Debug\CRUD Firebase.exe
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\bin\Debug\CRUD Firebase.pdb
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\bin\Debug\CRUD Firebase.xml
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\bin\Debug\FireSharp.dll
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\bin\Debug\Guna.UI2.dll
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\bin\Debug\Newtonsoft.Json.dll
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\bin\Debug\System.Net.Http.Extensions.dll
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\bin\Debug\System.Net.Http.Primitives.dll
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\bin\Debug\Newtonsoft.Json.xml
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\bin\Debug\System.Net.Http.Extensions.xml
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\bin\Debug\System.Net.Http.Primitives.xml
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\obj\Debug\CRUD Firebase.vbproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\obj\Debug\CRUD Firebase.exe
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\obj\Debug\CRUD Firebase.xml
+D:\AW 17\Source Code Visual Studio 19\CRUD Firebase\obj\Debug\CRUD Firebase.pdb
